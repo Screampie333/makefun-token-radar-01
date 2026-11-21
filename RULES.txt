@@ -1,0 +1,4 @@
+ANCHOR: BUILD_TOKEN_RADAR_V1_2026
+- Must track new launches on BSC/Base
+- Must filter by liquidity > $1000
+- Must use JSON output
